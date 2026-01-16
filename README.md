@@ -43,11 +43,7 @@ Libraries & Packages:
 •	Statsmodels – Econometric modeling, including ADF test, regression analysis, ARCH–LM test, and Granger causality
 •	ARCH – Implementation of ARCH and GARCH (1,1) volatility models
 
-## 📁 Repository Structure
 
-- `Exchange_Rate_Volatility_Exports_India.csv`
-- `MGT1031_International_Business.ipynb`
-- `MGT1031 International Business Report.docx`
 
 - ## 📌 Key Findings
 
