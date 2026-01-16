@@ -4,11 +4,11 @@
 
 This project analyzes the impact of exchange rate volatility on export performance using econometric time-series methods, including ADF stationarity tests, GARCH (1,1) volatility modeling, regression analysis, and Granger causality.
 
-## Objective
+## 🎯 Objective
 
 To examine the impact of exchange rate volatility on export performance using econometric time-series analysis.
 
-## Dataset
+## 📊 Dataset
 
 - Exchange Rate (INR/USD): Annual average nominal exchange rate representing the value of the Indian Rupee against the US Dollar.
 - Export Values: Total export value of India, measured in monetary terms (USD).
@@ -17,7 +17,7 @@ To examine the impact of exchange rate volatility on export performance using ec
 Description:
 The dataset consists of time-series data capturing movements in the INR/USD exchange rate and corresponding export values over the study period. It is structured chronologically and is suitable for econometric and volatility analysis, including stationarity testing, GARCH modeling, regression analysis, and Granger causality testing to examine the impact of exchange rate volatility on export performance.
 
-##  Methodology
+## 🧪 Methodology
 
 - Descriptive Statistics
 - Trend Analysis
@@ -28,7 +28,7 @@ The dataset consists of time-series data capturing movements in the INR/USD exch
 - Regression Analysis
 - Granger Causality Test
 
-## Tools & Technologies
+## 🛠 Tools & Technologies
 
 Programming & Analysis:
 
@@ -45,7 +45,7 @@ Libraries & Packages:
 
 
 
-- ## 📌 Key Findings
+  ## 📌 Key Findings
 
 - Exchange rate volatility is persistent and exhibits clustering effects.
 - GARCH (1,1) effectively models exchange rate volatility.
