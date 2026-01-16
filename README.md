@@ -1,2 +1,2 @@
 # MGT1031-International-Business-Impact-of-Exchange-Rate-Volatility-on-Export-Performance
-An econometric time-series analysis examining how exchange rate volatility affects export performance using GARCH modeling, regression, and Granger causality techniques.
+This project conducts an econometric time-series analysis to examine the impact of exchange rate volatility on export performance, employing descriptive statistics, trend analysis, stationarity testing (ADF), correlation analysis, ARCH–LM diagnostics, GARCH (1,1) volatility modeling, regression analysis, and Granger causality techniques.
