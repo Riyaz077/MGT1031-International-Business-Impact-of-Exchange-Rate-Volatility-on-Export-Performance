@@ -1,4 +1,6 @@
-# MGT1031-International-Business-Impact-of-Exchange-Rate-Volatility-on-Export-Performance
+# Impact-of-Exchange-Rate-Volatility-on-Export-Performance
+
+## Course: MGT1031 – International Business
 
 ## 📌 Project Overview
 
@@ -52,7 +54,7 @@ Libraries & Packages:
 - Exchange rate volatility has a significant impact on export performance.
 - Evidence of Granger causality exists between exchange rates and exports.
 
-Course: MGT1031 – International Business
+
 
 
 
