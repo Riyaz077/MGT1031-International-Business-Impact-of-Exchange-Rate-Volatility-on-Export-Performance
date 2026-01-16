@@ -16,8 +16,8 @@ To examine the impact of exchange rate volatility on export performance using ec
 - Export Values: Total export value of India, measured in monetary terms (USD).
 - Time Period: 2000–2023
 
-# Description:
-The dataset consists of time-series data capturing movements in the INR/USD exchange rate and corresponding export values over the study period. It is structured chronologically and is suitable for econometric and volatility analysis, including stationarity testing, GARCH modeling, regression analysis, and Granger causality testing to examine the impact of exchange rate volatility on export performance.
+ Description:
+    The dataset consists of time-series data capturing movements in the INR/USD exchange rate and corresponding export values over the study period. It is structured chronologically and is suitable for       econometric and volatility analysis, including stationarity testing, GARCH modeling, regression analysis, and Granger causality testing to examine the impact of exchange rate volatility on export performance.
 
 ## 🧪 Methodology
 
@@ -32,12 +32,12 @@ The dataset consists of time-series data capturing movements in the INR/USD exch
 
 ## 🛠 Tools & Technologies
 
-# Programming & Analysis:
+ Programming & Analysis:
 
 - Python – Primary programming language used for data analysis and econometric modeling
 - Google Colab – Cloud-based environment for executing Python code and performing time-series analysis
 
-# Libraries & Packages: 
+ Libraries & Packages: 
 
 - Pandas – Data cleaning, manipulation, and time-series handling
 - NumPy – Numerical computations and array operations
