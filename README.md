@@ -10,9 +10,9 @@ To examine the impact of exchange rate volatility on export performance using ec
 
 ## Dataset
 
-•	Exchange Rate (INR/USD): Annual average nominal exchange rate representing the value of the Indian Rupee against the US Dollar.
-•	Export Values: Total export value of India, measured in monetary terms (USD).
-•	Time Period: 2000–2023
+- Exchange Rate (INR/USD): Annual average nominal exchange rate representing the value of the Indian Rupee against the US Dollar.
+- Export Values: Total export value of India, measured in monetary terms (USD).
+- Time Period: 2000–2023
 
 Description:
 The dataset consists of time-series data capturing movements in the INR/USD exchange rate and corresponding export values over the study period. It is structured chronologically and is suitable for econometric and volatility analysis, including stationarity testing, GARCH modeling, regression analysis, and Granger causality testing to examine the impact of exchange rate volatility on export performance.
@@ -32,25 +32,25 @@ The dataset consists of time-series data capturing movements in the INR/USD exch
 
 Programming & Analysis:
 
-•	Python – Primary programming language used for data analysis and econometric modeling
-•	Google Colab – Cloud-based environment for executing Python code and performing time-series analysis
+- Python – Primary programming language used for data analysis and econometric modeling
+- Google Colab – Cloud-based environment for executing Python code and performing time-series analysis
 
 Libraries & Packages: 
 
-•	Pandas – Data cleaning, manipulation, and time-series handling
-•	NumPy – Numerical computations and array operations
-•	Matplotlib / Seaborn – Data visualization and trend analysis
-•	Statsmodels – Econometric modeling, including ADF test, regression analysis, ARCH–LM test, and Granger causality
-•	ARCH – Implementation of ARCH and GARCH (1,1) volatility models
+- Pandas – Data cleaning, manipulation, and time-series handling
+- NumPy – Numerical computations and array operations
+- Matplotlib / Seaborn – Data visualization and trend analysis
+- Statsmodels – Econometric modeling, including ADF test, regression analysis, ARCH–LM test, and Granger causality
+- ARCH – Implementation of ARCH and GARCH (1,1) volatility models
 
 
 
 - ## 📌 Key Findings
 
-•	Exchange rate volatility is persistent and exhibits clustering effects.
-•	GARCH (1,1) effectively models exchange rate volatility.
-•	Exchange rate volatility has a significant impact on export performance.
-•	Evidence of Granger causality exists between exchange rates and exports.
+- Exchange rate volatility is persistent and exhibits clustering effects.
+- GARCH (1,1) effectively models exchange rate volatility.
+- Exchange rate volatility has a significant impact on export performance.
+- Evidence of Granger causality exists between exchange rates and exports.
 
 Course: MGT1031 – International Business
 
